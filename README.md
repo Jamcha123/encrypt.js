@@ -1,10 +1,10 @@
-encrypt.js is a js file encryption package
-encrypt.js inputs a file and outputs a file called encrypted.txt
+encryption-file is a js file encryption package
+encryption-file inputs a file and outputs a file called encrypted.txt
 
 How it works?
 First install it 
 ```
-    npm i encrypt.js
+    npm i encryption-file
 ```
 Second call it like you should call you mother, she misses you
 ```
@@ -17,5 +17,5 @@ encryption types are:
 3. base64
 4. base64url
 
-any other arguments will just return buffer.
-
+Any other arguments will just return buffer.
+There is no decryption since you can't decrypted Hashes
